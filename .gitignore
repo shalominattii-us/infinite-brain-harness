@@ -32,3 +32,7 @@ external/*
 # OS noise.
 .DS_Store
 Thumbs.db
+
+# Python bytecode and build output
+__pycache__/
+*.pyc
